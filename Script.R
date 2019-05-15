@@ -1,4 +1,4 @@
-#Importa base de dados de dois meses seguidos
+#Importa base de dados de dois meses
 VarIGD<-IGD_jan_fev_2019 #Cria objeto a partir da base de dados importada
 
 #Eliminando denominadores iguais a zero
